@@ -26,8 +26,8 @@
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
-      "required" :ㄚㄖ尺卂爪 爪几,    
-      "value": "ㄚㄖ尺卂爪 爪几"
+      "required" :yoram,    
+      "value": "yoram"
     }, 
     "IMAGE": {
       "description": "Image for bot",
